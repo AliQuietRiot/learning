@@ -1,0 +1,7 @@
+var MyNum = 5
+
+while (MyNum > 0) {
+console.log('Yay')
+MyNum--
+}
+
