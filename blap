@@ -1,0 +1,6 @@
+var loggo = (input) => {
+ input--
+console.log(input)
+}
+
+loggo(3)
